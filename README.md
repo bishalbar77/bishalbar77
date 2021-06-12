@@ -3,7 +3,7 @@
 ## I'm a Student, Developer and Teacher!
 
 - 🔭 I currently pursuing B.Tech.
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning SpringBoot
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch movies
@@ -38,12 +38,6 @@
 
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="bishalbar77's GitHub Stats" src="https://github-readme-stats.bishalbar77.vercel.app/api?username=bishalbar77&show_icons=true&hide_border=true" />
-
-</details>
 
 [website]: https://bishalbar.tech
 [twitter]: https://twitter.com/bishalbar77
