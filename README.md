@@ -2,9 +2,8 @@
 
 ## I'm a Student, Developer and Teacher!
 
-- 🔭 I currently pursuing B.Tech.
-- 🌱 I’m currently learning SpringBoot
-- 👯 I’m looking to collaborate with other content creators
+- 🔭 I’m currently learning SpringBoot
+- 👯 I’m looking to collaborate with LAMP & MERN stack projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch movies
 
