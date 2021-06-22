@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer and Teacher!
 
-- 🔭 I’m currently learning SpringBoot
+- 🔭 I’m currently learning Blockchain
 - 👯 I’m looking to collaborate with LAMP & MERN stack projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch movies
