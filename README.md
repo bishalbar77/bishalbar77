@@ -37,6 +37,7 @@
 
 <br />
 
+### <p align="center"><img src="https://komarev.com/ghpvc/?username=bishalbar77&label=PROFILE+VIEWS&style=flat-square" alt="bishalbar77" /></p>
 
 [website]: https://bishalbar.tech
 [twitter]: https://twitter.com/bishalbar77
