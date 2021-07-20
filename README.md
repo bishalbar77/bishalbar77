@@ -36,6 +36,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][github]
 
 <br />
+<br />
 
 ### <p align="center"><img src="https://komarev.com/ghpvc/?username=bishalbar77&label=PROFILE+VIEWS&style=flat-square" alt="bishalbar77" /></p>
 
