@@ -2,7 +2,7 @@
 
 ## I'm a Student, Developer and Teacher!
 
-- 🔭 I’m currently learning Blockchain
+- 🔭 I’m currently learning to be more consistent
 - 👯 I’m looking to collaborate with LAMP & MERN stack projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to watch movies
@@ -40,7 +40,7 @@
 
 ### <p align="center"><img src="https://komarev.com/ghpvc/?username=bishalbar77&label=PROFILE+VIEWS&style=flat-square" alt="bishalbar77" /></p>
 
-[website]: https://bishalbar.tech
+[website]: https://bishalrana.com
 [twitter]: https://twitter.com/bishalbar77
 [youtube]: https://youtube.com/bishalbar77
 [instagram]: https://instagram.com/bishalbar77
