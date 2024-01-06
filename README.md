@@ -1,11 +1,11 @@
 ### Hi there, I'm Bishal Rana - aka [Bar][website] 👋
 
-## I'm a Student, Developer and Teacher!
+## I'm a Developer!
 
 - 🔭 I’m currently learning to be more consistent
 - 👯 I’m looking to collaborate with LAMP & MERN stack projects
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to watch movies
+- 🥅 2024 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I love to watch animes
 
 ### Connect with me:
 
